@@ -6,7 +6,7 @@ var canvas = document.querySelector('canvas');
 
 var c = canvas.getContext('2d');
 
-
+//blbbbbbb
 
 canvas.height = window.innerHeight;
 
