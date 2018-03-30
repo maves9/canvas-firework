@@ -11,7 +11,7 @@ canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
 });
 
-
+//this is firework for muse
 var mouse = {
   x: undefined,
   y: undefined
